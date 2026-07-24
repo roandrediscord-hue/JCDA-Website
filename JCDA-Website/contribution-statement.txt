@@ -1,0 +1,5 @@
+Contribution Statement
+
+I was responsible for designing and developing the website structure, creating HTML pages, styling the website using CSS, implementing JavaScript functionality, adding images, testing the website, and preparing the final submission.
+
+All website components were completed as part of the assigned project requirements.
